@@ -1,14 +1,19 @@
+
 ##Lab3 of Computer Networks
+
 This homework was finished by Maosen Zhang and Tegusi, Zhang for proxy and Tegusi for DNS.
 
 We have implemented complete functions given by handout, if you have questions please contact us.
 
 ###Compile and Run
+
 ####Compile
+
 ```
 make all
 ```
 ####Run
+
 Open two terminal and type two cammands(change the IP as you want)
 
 ```
@@ -17,7 +22,9 @@ Open two terminal and type two cammands(change the IP as you want)
 ```
 
 If you want to run proxy, follow the instruction of handout. 
+
 ####Files
+
 * **proxy.c** main part of proxy, adapted from ICS lab
 * **csapp.c** library provided by CSAPP
 * **DNSServer.cpp** Utility of DNS Server
